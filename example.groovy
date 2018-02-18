@@ -1,1 +1,0 @@
-SmartThingsBuildHelper.compile('main_project_template', './src', 'smartapps/kennelbound-smartthings/eero/eero-unofficial.src/eero-compiled.groovy')

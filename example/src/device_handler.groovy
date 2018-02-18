@@ -1,0 +1,11 @@
+metadata {
+    __DEVICE_DEFINITION__
+
+    __DEVICE_PREFERENCES__
+
+    __DEVICE_TILES__
+}
+
+__CONTROLLER__
+
+__HEALTH__
